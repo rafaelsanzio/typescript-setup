@@ -854,7 +854,7 @@ get-stream@^5.0.0:
   dependencies:
     pump "^3.0.0"
 
-git-commit-msg-linter@^3.1.0:
+git-commit-msg-linter@^3.0.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/git-commit-msg-linter/-/git-commit-msg-linter-3.1.0.tgz#311120f5c67549415b29724e2375918b92e8fd87"
   integrity sha512-NAgkdPrXgtlAogz5sifBAJuIsRV2gyeo7Wsg0jnSuPbYlCafsjj+UinnFpu7cCfXuSSt0ASXxE3shimf82xgdw==
