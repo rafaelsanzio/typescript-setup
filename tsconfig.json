@@ -10,11 +10,7 @@
 		"strictPropertyInitialization": false,
 
 		"baseUrl": "./src",
-		/* "paths": {
-			"@modules/*": ["modules/*"],
-			"@config/*": ["config/*"],
-			"@shared/*": ["shared/*"]
-		}, */
+		"paths": {},
 
 		"esModuleInterop": true,
 
